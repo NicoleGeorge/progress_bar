@@ -1,2 +1,2 @@
 # progress_bar
-Progress Bar widget - reference tool
+Progress Bar widget - code snippet
